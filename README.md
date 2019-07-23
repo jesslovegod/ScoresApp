@@ -1,6 +1,5 @@
 # ScoresApp
 
-### Android Scores App
 
 
 ### Project Overview
